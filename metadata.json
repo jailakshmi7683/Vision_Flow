@@ -1,0 +1,7 @@
+{
+  "name": "Aura-QA: Autonomous PCB Defect Detection",
+  "description": "An Industry 5.0 intelligent system for PCB defect detection, case management, and repair workflow automation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
